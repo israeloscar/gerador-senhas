@@ -24,6 +24,7 @@ que gera uma senha de acordo com o que o usuário escolhe
 python main.py 
 ```
 
+```md
 ## Exemplo de uso
 Quantos caracteres sua senha terá:8
 Muito bem, vamos continuar.
@@ -33,3 +34,4 @@ Uma senha com números é mais segura, mas vamos continuar.
 Sua senha terá símbolos, pela última vez, responda com sim ou não:sim
 Sua senha aleatória é:
 jDHvy.y$
+```
